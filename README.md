@@ -1,4 +1,4 @@
-# control
+# appcontrol
 #include <ESP8266WiFi.h>
 
 const char* ssid = "BannayokRMUTI2.4";
